@@ -1,4 +1,4 @@
-MTS-DISP
+MTS-DISP mac
 by Thibault Brevet
 released under the terms of the MIT License
 
